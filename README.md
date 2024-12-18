@@ -39,4 +39,4 @@ generate keys, encrypt and decrypt messages, and learn about the algorithms.
   - [big-integer.js](https://github.com/peterolson/BigInteger.js) for RSA calculations.
 
   ## 🌐 Live Demo  
-Check out the live version of Secure Talk here: [Secure Talk Live](https://meherin-islam.github.io/Secure_Talk/)  
+Check out the live version of Secure Talk here: [Secure Talk Live] https://meherin-islam.github.io/Secure_Talk/ 
